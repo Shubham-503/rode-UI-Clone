@@ -1,8 +1,8 @@
-# Project Name: ROde UI Clone
+# Project Name: Rode UI Clone
 
 ## Project Description
 
-> A ROde UI clone developed using hTML amd Tailwind CSS.
+> A Rode UI Clone developed using HTML and Tailwind CSS.
 > Responsive design
 
 ## Technologies Used
@@ -18,9 +18,9 @@
 
 <br>
 
-#### It took around 15 hr to build
+#### It took around 7 hr to build
 
-- # [live Link](https://rode-store.netlify.app/)
+- # [Live Link](https://rode-store.netlify.app/)
 
 ![Screenshots](/images/thumbnail.PNG)
 ![Screenshots](/images/thumbnail2.PNG)
