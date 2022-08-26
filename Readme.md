@@ -20,9 +20,7 @@
 
 #### It took around 15 hr to build
 
-- livelink()
-
-#
+- # [live Link](https://rode-store.netlify.app/)
 
 ![Screenshots](/images/thumbnail.PNG)
 ![Screenshots](/images/thumbnail2.PNG)
